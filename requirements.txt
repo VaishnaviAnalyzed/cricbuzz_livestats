@@ -1,0 +1,11 @@
+streamlit>=1.40
+pandas>=2.0
+requests>=2.31
+SQLAlchemy>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+# Optional DB drivers (only if you switch DATABASE_URL away from SQLite):
+# psycopg2-binary>=2.9   # PostgreSQL
+# PyMySQL>=1.1           # MySQL
+# Dev / testing:
+# pytest>=8.0
